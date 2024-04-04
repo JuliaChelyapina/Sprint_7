@@ -9,7 +9,7 @@ import ru.praktikumServices.qaScooter.courier.CourierCred;
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.Matchers.is;
 
-public class CourierCreateTest extends Base{
+public class CourierCreateTest extends Base {
 
     @Test
     @DisplayName("Создание нового курьера")
