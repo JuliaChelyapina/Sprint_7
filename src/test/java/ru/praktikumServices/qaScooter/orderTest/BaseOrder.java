@@ -8,8 +8,6 @@ import ru.praktikumServices.qaScooter.order.Order;
 import ru.praktikumServices.qaScooter.order.OrderClient;
 import ru.praktikumServices.qaScooter.order.OrderGenerator;
 
-import static org.hamcrest.Matchers.is;
-
 public class BaseOrder {
 
     protected OrderClient orderClient;

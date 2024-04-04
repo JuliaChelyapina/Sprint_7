@@ -10,8 +10,4 @@ public class CourierGenerator {
         final String firstName = RandomStringUtils.randomAlphabetic(10);
         return new Courier(login, password, firstName);
     }
-
-    public static Courier woLogin() {
-        return new Courier(null, "password", "testName");
-    }
 }

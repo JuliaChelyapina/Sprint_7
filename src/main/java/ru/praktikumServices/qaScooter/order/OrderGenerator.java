@@ -7,8 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-import ru.praktikumServices.qaScooter.courier.Courier;
-
 public class OrderGenerator {
     static SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
     static Faker faker = new Faker();

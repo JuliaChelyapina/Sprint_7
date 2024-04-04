@@ -2,7 +2,6 @@ package ru.praktikumServices.qaScooter.order;
 
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
-import ru.praktikumServices.qaScooter.courier.CourierCred;
 import ru.praktikumServices.qaScooter.RestClient;
 
 import static io.restassured.RestAssured.given;
